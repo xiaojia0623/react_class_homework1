@@ -1,0 +1,14 @@
+
+@import 'bootstrap/scss/functions';
+
+$primary-bg: green;
+
+@import './variables';
+//@import './variables-dark';
+@import 'bootstrap/scss/bootstrap';
+
+@import '/node_modules/bootstrap/scss/tables';
+@import 'bootstrap/scss/card';
+@import 'bootstrap/scss/badge';
+
+
